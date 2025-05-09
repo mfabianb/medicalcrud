@@ -2,6 +2,8 @@
 
 EXAMPLES
 
+Uses a H2 databases, and load some Catalog data from data.sql in resources folder
+
 POST: http://localhost:8080/medical/appointment
 {
     "appointmentDateTime": "2025-05-10T10:10:10",
